@@ -12,3 +12,7 @@
 PDF підручника в репозиторій не входить.
 
 Перевірка перед тим, як віддавати: `cd course && node tools/check.js`
+
+* [course/README.md](course/README.md) — що всередині, типи блоків, як додати параграф
+* [.claude/skills/zbd6-materials/SKILL.md](.claude/skills/zbd6-materials/SKILL.md) — правила,
+  за якими робиться матеріал
